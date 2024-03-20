@@ -7,14 +7,14 @@ swiftUI app for  iOS/Mac/Watch
 
 
 
-![手机截图1]('./screenShots/home.png')
+![手机截图1](./screenShots/home.png)
 
-![手机截图2]('./screenShots/list.png')
+![手机截图2](./screenShots/list.png)
 
-![手机截图3]('./screenShots/detail.png')
+![手机截图3](./screenShots/detail.png)
 
-![watch截图1]('./screenShots/watch1.png')
+![watch截图1](./screenShots/watch1.png)
 
-![watch2截图1]('./screenShots/watch2.png')
+![watch2截图1](./screenShots/watch2.png)
 
-![mac截图1]('./screenShots/mac.jpg')
+![mac截图1](./screenShots/mac.jpg)
